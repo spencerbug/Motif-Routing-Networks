@@ -1,0 +1,5 @@
+snn:
+  width: 4
+  height: 4
+  neighbors: 4
+buffer_size: 10

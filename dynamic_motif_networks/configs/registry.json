@@ -1,0 +1,4 @@
+{
+  "neurons": ["LIFNeuron", "ANNNeuron", "LiquidNeuron"],
+  "control_layers": ["LinearANNControl"]
+}
